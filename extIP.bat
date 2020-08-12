@@ -1,0 +1,1 @@
+%Windir%\Sysnative\cmd.exe /c powershell.exe -ExecutionPolicy Bypass -File ".\getExtIP.ps1"
